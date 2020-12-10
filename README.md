@@ -34,6 +34,6 @@
 
 ### 🔥Sosial Media🔥
 
-[![](https://img.shields.io/badge/Instagram-@dimasmpp_-white?logo=Instagram&logoColor=white&labelColor=red)](https://www.instagram.com/dimasmpp_)
+[![](https://img.shields.io/badge/Instagram-@dimasmpp_-white?logo=Instagram&logoColor=red&labelColor=red)](https://www.instagram.com/dimasmpp_)
 [![](https://img.shields.io/badge/Github-DIMASMPP190-red?logo=Github&logoColor=Red&labelColor=black)](https://github.com/DIMASMPP190)
 [![](https://img.shields.io/badge/Twitter-@dimas_mpp-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://mobile.twitter.com/dimas_mpp)
