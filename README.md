@@ -1,7 +1,5 @@
 ### Hallo👋, Saya Dimas M Pratama Puranto - Alias (DIMASMPP)
-<h3 align="left">Informasi Pribadi Tentang Saya Dan Informasi Seputar Termux.</h3>
-
-### 🧒Perkenalan Diri Sendiri🧒
+### 🧒Perkenalan Diri🧒
 
 - 👤 Nama Saya Dimas M Pratama Puranto 👥
 - 🌏 : Saya Asal Di Indonesia 🇮🇩
